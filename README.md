@@ -1,15 +1,21 @@
 
-# My Journey
+# C Programming
 
-Quit social media. Learning to code. Building myself — for me, and for the job I'm working toward.
+This repository contains my C programming practice, exercises, and learning progress.
 
-## Progress Log
+## Topics Covered
 
-### October 2026
-- Oct 16 — created this repo, starting fresh
-- (add every day you work)
+- [ ] Basic Syntax and Variables
+- [ ] Data Types and Operators
+- [ ] Conditional Statements
+- [ ] Loops
+- [ ] Arrays
+- [ ] Functions
+- [ ] Pointers
 
-## Structure
-- c-practice/ — all C code, one folder per topic
-- notes/ — cheat sheets, markdown notes
-- projects/ — bigger builds later
+## Purpose
+
+To develop strong programming fundamentals and problem-solving skills through consistent practice.
+
+## Language
+- C
